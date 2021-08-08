@@ -3,7 +3,7 @@ Download & Try out Demo --->  https://github.com/amanpratapsingh9/Cpp_Project--A
 
 SnapShot of Project:-
 
-1)
+1) Login Interface for both Admin & User.
 ![C++ Project-Attendance Management System_1](https://user-images.githubusercontent.com/72128002/128617817-ac50cfdf-34dd-4237-9b75-77d33b287751.jpg)
 
 2)
