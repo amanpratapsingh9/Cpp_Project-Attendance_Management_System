@@ -5,6 +5,7 @@
 #include <cstdlib>
 using namespace std;
 
+
 int admin_view();
 int student_view();
 int student_login();
