@@ -232,6 +232,7 @@ int student_view()
         getchar();
         return 0;
     }
+    
     int goBack=0;
     while(1)
     {
