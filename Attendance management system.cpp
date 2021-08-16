@@ -54,6 +54,7 @@ int delay()
 int admin_view()
 {
     int goBack = 0;
+   
     while(1)
     {
         system("cls");
